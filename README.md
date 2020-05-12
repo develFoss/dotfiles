@@ -1,7 +1,6 @@
 Dotfiles
 ========================
-*For ricing (of course)*
-*Goal: minimum mouse interactions, enough tools within the terminal for daily uses*
+*Goal: minimum mouse interactions, enough tools within the terminal for daily uses yet look beautiful*
 
 ## Info
 * WM: i3-gaps
@@ -27,4 +26,3 @@ Dotfiles
 
 ## Notes
 * Blacklist all opacity rules in compton and let flashfocus handle them (better transparent effect for everything)
-* 
