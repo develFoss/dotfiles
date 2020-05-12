@@ -6,7 +6,7 @@ Dotfiles
 * WM: i3-gaps (i3lock-color for lock screen)
 * Terminal: kitty
 * Music: ncmpcpp + mpd + mpc
-* File explorer: ranger
+* File manager: ranger
 * Compositor: compton
 * Effect: flashfocus
 * Bar: polybar
