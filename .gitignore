@@ -1,25 +1,2 @@
 # Ignore everything
 /*
-
-# Whitelist desired files
-!.gitignore
-!README.md
-!.nanorc
-!.zshrc
-!.ncmpcpp/config
-!.wegorc
-!.gtkrc-2.0
-!.config/bottom/bottom.toml
-!.config/dunst/
-!.config/flashfocus/flashfocus.yml
-!.config/gtk-3.0/settings.ini
-!.config/i3/config
-!.config/kitty/kitty.conf
-!.config/mpd/mpd.conf
-!.config/compton.conf
-!.config/neofetch/config.conf
-!.config/polybar/
-!.config/ranger/
-!.config/rofi/
-!Pictures/Screenshots/
-!Pictures/Uh/IMG_1782.JPG
