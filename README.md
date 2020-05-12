@@ -1,11 +1,11 @@
 Dotfiles
 ========================
-*Goal: minimum mouse interactions, enough tools within the terminal for daily uses yet look beautiful*
+*Goal: minimum mouse interactions, enough tools within the terminal for daily uses + looks beautiful*
 
 ## Info
-* WM: i3-gaps
+* WM: i3-gaps (i3lock-color for lock screen)
 * Terminal: kitty
-* Music player: ncmpcpp + mpd + mpc
+* Music: ncmpcpp + mpd + mpc
 * File explorer: ranger
 * Compositor: compton
 * Effect: flashfocus
@@ -19,7 +19,7 @@ Dotfiles
 ## Screenshots
 * Overall look
 ![alt text](https://github.com/develFoss/dotfiles/blob/master/Pictures/Screenshots/screenshot.png)
-* Polybar quick menu
+* Polybar quick menu \n
 ![alt text](https://github.com/develFoss/dotfiles/blob/master/Pictures/Screenshots/polybar.png)
 * Dunst
 ![alt text](https://github.com/develFoss/dotfiles/blob/master/Pictures/Screenshots/dunst.png)
