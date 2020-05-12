@@ -3,5 +3,8 @@
 
 #Whitelist
 !/Pictures/
+/Pictures/*
+!/Pictures/Uh
+!/Pictures/Screenshots
 !/.ncmpcpp
 !/.config
