@@ -12,7 +12,7 @@
 !/.ncmpcpp
 
 !/.config
-/config/*
+/.config/*
 !/.config/bottom
 !/.config/dunst
 !/.config/flashfocus
@@ -26,3 +26,4 @@
 !/.config/polybar
 !/.config/ranger
 !/.config/rofi
+!/.config/compton.conf
