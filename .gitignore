@@ -11,8 +11,8 @@
 
 !/.ncmpcpp
 /.ncmpcpp/*
+/.ncmpcpp/lyrics
 !/.ncmpcpp/config
-/.ncmpcpp/*
 
 !/.config
 /.config/*
