@@ -1,6 +1,6 @@
 Dotfiles
 ========================
-*Goal: minimum mouse interactions, enough tools within the terminal for daily uses + looks beautiful*
+*Goal: limit mouse interactions, enough tools within the terminal for daily uses + looks beautiful*
 
 ## Info
 * WM: i3-gaps (i3lock-color for lock screen)
