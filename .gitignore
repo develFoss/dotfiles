@@ -5,6 +5,8 @@
 !/Pictures/
 /Pictures/*
 !/Pictures/Uh
+/Pictures/Uh/*
+!/Pictures/Uh/IMG_1782.JPG
 !/Pictures/Screenshots
 !/.ncmpcpp
 !/.config
