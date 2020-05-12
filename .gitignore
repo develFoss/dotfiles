@@ -27,5 +27,6 @@
 !/.config/neofetch
 !/.config/polybar
 !/.config/ranger
+/.config/ranger/plugins
 !/.config/rofi
 !/.config/compton.conf
