@@ -15,6 +15,7 @@ Dotfiles
 * neofetch
 * Flat-Remix-Blue-Dark GTK theme
 * dunst (added notification for screenshots (scrot), ncmpcpp on song changes)
+* Icon theme: Papirus-Dark
 
 ## Screenshots
 * Overall look
