@@ -1,0 +1,19 @@
+# Arc (auto-generated)
+#rofi.theme:			/usr/share/rofi/themes/Arc-Dark.rasi
+rofi.theme:			/home/misaki/.config/rofi/Arc-Dark.rasi
+# Enable more default modes
+rofi.modi:			ssh,window,drun,run
+# Apply terminal
+rofi.terminal:			kitty
+# ssh
+rofi.ssh-client:		ssh
+# ssh typo
+rofi.ssh-command:		{terminal} -e {ssh-client} {host}
+# No favourite
+rofi.disable-history:		true
+# Paste from clipboard
+rofi.kb-secondary-paste:	Control+v,Insert
+# Paste primary selection
+rofi.kb-primary-paste:		Control+Shift+v,Shift+Insert
+# Sort display results
+rofi.levenshtein-sort:		true
