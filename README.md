@@ -18,10 +18,13 @@ Dotfiles
 
 ## Screenshots
 * Overall look
+
 ![alt text](https://github.com/develFoss/dotfiles/blob/master/Pictures/Screenshots/screenshot.png)
-* Polybar quick menu \n
+* Polybar quick menu
+
 ![alt text](https://github.com/develFoss/dotfiles/blob/master/Pictures/Screenshots/polybar.png)
 * Dunst
+
 ![alt text](https://github.com/develFoss/dotfiles/blob/master/Pictures/Screenshots/dunst.png)
 
 ## Notes
