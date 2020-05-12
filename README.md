@@ -27,3 +27,7 @@ Dotfiles
 
 ## Notes
 * Blacklist all opacity rules in compton and let flashfocus handle them (better transparent effect for everything)
+
+## To-do list
+[ ] To be a vim user :)
+[ ] weechat
