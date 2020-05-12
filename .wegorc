@@ -1,0 +1,58 @@
+# wego configuration
+# 
+# This config has https://github.com/schachmat/ingo syntax.
+# Empty lines or lines starting with # will be ignored.
+# All other lines must look like "KEY=VALUE" (without the quotes).
+# The VALUE must not be enclosed in quotes as well!
+
+# aat-frontend: Show geo coordinates (default false)
+aat-coords=false
+
+# aat-frontend: Monochrome output (default false)
+aat-monochrome=false
+
+# BACKEND to be used (default darksky)
+backend=openweathermap
+
+# darksky backend: the api KEY to use (default )
+darksky-api-key=
+
+# darksky backend: print raw requests and responses (default false)
+darksky-debug=false
+
+# darksky backend: the LANGUAGE to request from Dark Sky (default en)
+darksky-lang=en
+
+# NUMBER of days of weather forecast to be displayed (default 3)
+days=3
+
+# FRONTEND to be used (default ascii-art-table)
+frontend=ascii-art-table
+
+# json frontend: do not indent the output (default false)
+jsn-no-indent=false
+
+# LOCATION to be queried (default 37.4275,-122.1697)
+location=59.938732,30.316229
+
+# openweathermap backend: the api KEY to use (default )
+owm-api-key=c93b4a667c8c9d1d1eb941621f899bb8
+
+# openweathermap backend: print raw requests and responses (default false)
+owm-debug=false
+
+# openweathermap backend: the LANGUAGE to request from openweathermap (default en)
+owm-lang=en
+
+# UNITSYSTEM to use for output.
+# Choices are: metric, imperial, si, metric-ms (default imperial)
+units=metric
+
+# worldweatheronline backend: the api KEY to use (default )
+wwo-api-key=
+
+# worldweatheronline backend: print raw requests and responses (default false)
+wwo-debug=false
+
+# worldweatheronline backend: the LANGUAGE to request from worldweatheronline (default en)
+wwo-lang=en
