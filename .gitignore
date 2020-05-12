@@ -10,6 +10,9 @@
 !/Pictures/Screenshots
 
 !/.ncmpcpp
+/.ncmpcpp/*
+!/.ncmpcpp/config
+/.ncmpcpp/lyrics
 
 !/.config
 /.config/*
