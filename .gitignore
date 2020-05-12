@@ -1,5 +1,11 @@
 # Whitelist
-!/Pictures/Screenshots/
+!/Pictures
+/Pictures/*
+!/Pictures/Uh/IMG_1782.JPG
+!/Pictures/Screenshots
+!/.ncmpcpp
+/.ncmpcpp/*
+!/.ncmpcpp/config
 
 # Ignore everything
 /*
