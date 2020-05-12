@@ -10,8 +10,6 @@
 !/Pictures/Screenshots
 
 !/.ncmpcpp
-/.ncmpcpp/*
-!/.ncmpcpp/config
 
 !/.config
 /config/*
@@ -27,5 +25,4 @@
 !/.config/neofetch
 !/.config/polybar
 !/.config/ranger
-!/.config/compton.conf
 !/.config/rofi
