@@ -12,7 +12,7 @@
 !/.ncmpcpp
 /.ncmpcpp/*
 !/.ncmpcpp/config
-/.ncmpcpp/lyrics
+/.ncmpcpp/*
 
 !/.config
 /.config/*
