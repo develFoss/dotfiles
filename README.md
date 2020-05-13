@@ -30,4 +30,4 @@ Dotfiles
 
 ## To-do list
  - [ ] Vim :)
- - [ ] weechat
+ - [x] weechat
