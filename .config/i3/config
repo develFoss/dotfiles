@@ -74,6 +74,7 @@ bindsym $mod+Shift+q kill
 
 # start rofi (a program launcher)
 bindsym $mod+d exec rofi -show drun
+bindsym $mod+Shift+d rofi -show window
 
 # change focus
 bindsym $mod+j focus left
@@ -141,6 +142,29 @@ set $ws7 "7"
 set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
+
+# Default workspace for some applications
+for_window [class="Spotify"] move to workspace $ws6
+for_window [class="Audacity"] move to workspace $ws6
+for_window [class="Bitwarden"] move to workspace $ws4
+for_window [class="Blender"] move to workspace $ws5
+for_window [class="electron-mail"] move to workspace $ws3
+for_window [class="Gimp-2.10"] move to workspace $ws5
+for_window [class="Godot"] move to workspace $ws5
+for_window [class="Hamsket"] move to workspace $ws7
+for_window [class="Inkscape"] move to workspace $ws5
+for_window [class="krita"] move to workspace $ws5
+for_window [class="obs"] move to workspace $ws6
+for_window [class="Olive"] move to workspace $ws6
+for_window [class="Standard Notes"] move to workspace $ws4
+for_window [class="Thunderbird"] move to workspace $ws3
+for_window [class="UnityHub"] move to workspace $ws5
+for_window [class="mpv"] move to workspace $ws6
+for_window [class="Zathura"] move to workspace $ws4
+for_window [class="libreoffice"] move to workspace $ws4
+for_window [class="Riot"] move to workspace $ws7
+for_window [class="TelegramDesktop"] move to workspace $ws7
+for_window [class="Signal"] move to workspace $ws7
 
 # switch to workspace
 bindsym $mod+1 workspace number $ws1
