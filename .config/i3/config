@@ -35,7 +35,7 @@ exec --no-startup-id blueman-tray
 exec --no-startup-id nm-applet
 exec --no-startup-id copyq
 exec --no-startup-id caffeine
-exec --no-startup-id ibus-daemon -drx
+exec --no-startup-id ibus-daemon -drx --panel /usr/lib/ibus/ibus-ui-gtk3
 
 # Notification
 exec_always --no-startup-id dunst
