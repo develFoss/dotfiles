@@ -23,6 +23,7 @@ Dotfiles
 * bottom --> resource manager (ytop, htop...)
 * zathura, mpv, feh --> minimal, yet powerful
 * rofi --> menu
+* ncdu --> disk space maintainer
 
 ## Screenshots
 * Overall look
