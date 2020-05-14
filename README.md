@@ -56,3 +56,4 @@ Dotfiles
 * rsync (for large file copying)
 * fzf-tab
 * wttr.in (replace wego-darksky)
+* screenkey
