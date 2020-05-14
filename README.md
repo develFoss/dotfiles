@@ -19,7 +19,7 @@ Dotfiles
 * calcurse --> calendar, task reminder
 * sl, neofetch, figlet, cowsay, lolcat, lsd, fortune-mod --> beautiful nonsense
 * weechat/birch --> irc client
-* ncmpcpp + mpd + mpc --> music daemon, player, cli
+* ncmpcpp + mpd + mpc + cava --> music daemon, player, cli + more visualizer
 * bottom, powertop, ncdu --> resource manager
 * zathura, mpv, feh --> minimal, yet powerful
 * rofi --> menu
