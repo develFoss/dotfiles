@@ -20,10 +20,9 @@ Dotfiles
 * sl, neofetch, figlet, cowsay, lolcat, lsd, fortune-mod --> beautiful nonsense
 * weechat/birch --> irc client
 * ncmpcpp + mpd + mpc --> music daemon, player, cli
-* bottom, powertop --> resource manager (ytop, htop...)
+* bottom, powertop, ncdu --> resource manager
 * zathura, mpv, feh --> minimal, yet powerful
 * rofi --> menu
-* ncdu --> disk space maintainer
 
 ## Screenshots
 * Overall look
