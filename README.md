@@ -23,6 +23,7 @@ Dotfiles
 * bottom, powertop, ncdu --> resource manager
 * zathura, mpv, feh --> minimal, yet powerful
 * rofi --> menu
+* wego-darksky --> weather
 
 ## Screenshots
 * Overall look
