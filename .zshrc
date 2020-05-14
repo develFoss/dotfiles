@@ -1,9 +1,3 @@
-# If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
-
-# You may need to manually set your language environment
-export LANG=en_US.UTF-8
-
 # fuzzy finder
 export FZF_DEFAULT_COMMAND="fd --type file --color=always"
 export FZF_DEFAULT_OPTS="--ansi"
@@ -34,8 +28,6 @@ POWERLEVEL9K_MODE="nerdfont-complete"
 #POWERLEVEL9K_DISABLE_RPROMPT=true
 POWERLEVEL9K_RPROMPT_ON_NEWLINE=true
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
-#POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="%F{green}黎 "
-#POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
 POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX="%F{green}╭─"
 POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="%F{green}╰%f "
 
