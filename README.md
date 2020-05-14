@@ -1,6 +1,5 @@
 Dotfiles
 ========================
-*Goal: limit mouse interactions, enough tools within the terminal for daily uses*
 
 *Of course ricing... :)*
 
