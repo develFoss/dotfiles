@@ -32,4 +32,4 @@ Dotfiles
 
 ## To-do list
  - [ ] Vim :)
- - [ ] Moving to bspwm/dwm (making small changes to i3 config file hurts the eyes)
+ - [ ] Moving to bspwm/dwm (making small changes to i3 config file hurts the eyes) -> Read more wikis, -.- yay -.-
