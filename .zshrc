@@ -2,6 +2,13 @@
 export FZF_DEFAULT_COMMAND="fd --type file --color=always"
 export FZF_DEFAULT_OPTS="--ansi"
 
+# fuck Microsoft
+export DOTNET_CLI_TELEMETRY_OPTOUT=1
+export TNS_ADMIN=/opt/oracle/instantclient_19_6/network/admin
+export LD_LIBRARY_PATH=/opt/oracle/instantclient_19_6
+# fuck Java
+export _JAVA_AWT_WM_NONREPARENTING=1
+
 #run neofetch on shell startup
 neofetch | lolcat
 
