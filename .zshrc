@@ -21,6 +21,7 @@ alias diff="diff --color=auto"
 alias glog="setterm -linewrap off && git glog && setterm -linewrap on"
 alias ncdu="ncdu --color=dark"
 alias ip="ip -color=always"
+alias kmon="kmon --color lightblue"
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/misaki/.oh-my-zsh"
