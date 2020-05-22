@@ -14,7 +14,7 @@ Dotfiles
 * Font: Hack Nerd Font (mainly) + weather font for polybar
 * Shell: zsh + powerlevel9k theme
 
-## Cool small things (reminder)
+## Cool small things
 * ranger --> file manager
 * dunst --> notification daemon
 * calcurse --> calendar, task reminder
@@ -39,4 +39,4 @@ Dotfiles
 
 ## To-do list
  - [ ] Vim :)
- - [ ] Moving to bspwm/dwm (making small changes to i3 config file hurts the eyes) --> Need to read more wikis, more source code -.- yay -.-
+ - [x] Moving to bspwm/dwm (making small changes to i3 config file hurts the eyes) --> Need to read more wikis, more source code -.- yay -.-
