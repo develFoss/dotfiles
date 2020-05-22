@@ -39,7 +39,7 @@ Dotfiles
 
 ## To-do list
  - [ ] Vim :)
- - [ ] Moving to bspwm/dwm (making small changes to i3 config file hurts the eyes) --> Need to read more wikis, -.- yay -.-
+ - [ ] Moving to bspwm/dwm (making small changes to i3 config file hurts the eyes) --> Need to read more wikis, more source code -.- yay -.-
  
 ## More cool things (will try)
 * nnn
